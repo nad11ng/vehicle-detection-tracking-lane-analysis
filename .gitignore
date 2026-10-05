@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models and videos
+models/*.pt
+inputs/videos/*.mp4
+
+# Ultralytics
+runs/
+
+# Inputs
+inputs/
